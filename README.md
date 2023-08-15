@@ -1,20 +1,20 @@
-# File Encryption and Decryption Utility
+# Utilitário de Criptografia e Descriptografia de Arquivos
 
-This Python script provides a basic command-line utility for encrypting and decrypting files using the AES (Advanced Encryption Standard) algorithm in CFB (Cipher Feedback) mode. It uses the `cryptography` library for cryptographic operations.
+Este script em Python fornece uma ferramenta básica de linha de comando para criptografar e descriptografar arquivos usando o algoritmo AES (Padrão de Criptografia Avançada) no modo CFB (Cipher Feedback). Ele utiliza a biblioteca `cryptography` para operações criptográficas.
 
-## Prerequisites
+## Pré-requisitos
 
 - Python 3.x
-- `cryptography` library (install using `pip install cryptography`)
-- `colorama` library (install using `pip install colorama`)
+- Biblioteca `cryptography` (instale usando `pip install cryptography`)
+- Biblioteca `colorama` (instale usando `pip install colorama`)
 
-## Usage
+## Utilização
 
-1. Clone or download this repository.
+1. Clone ou faça o download deste repositório.
 
-2. Navigate to the repository directory in your terminal.
+2. Navegue até o diretório do repositório em seu terminal.
 
-3. Run the script using the following command:
+3. Execute o script usando o seguinte comando:
 
    ```bash
-   python script_name.py
+   python crpy.py
