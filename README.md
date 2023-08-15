@@ -34,4 +34,5 @@ Este script em Python fornece uma ferramenta básica de linha de comando para cr
 
 ## Observação
 • Esta é uma implementação básica destinada a fins educacionais. Pode faltar recursos de segurança necessários para um ambiente de produção.
+
 • Certifique-se de manter a semente (chave de derivação de chave) segura e protegida, pois ela é fundamental tanto para a criptografia quanto para a descriptografia.
