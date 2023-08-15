@@ -23,9 +23,12 @@ Este script em Python fornece uma ferramenta básica de linha de comando para cr
    
    1 - Criptografar um Arquivo: Criptografa um arquivo de entrada especificado.
    
+   
    2 - Descriptografar um Arquivo: Descriptografa um arquivo criptografado especificado.
    
+
    3 - Ajuda: Exibe informações sobre como usar a ferramenta.
+   
    
 3. Escolha uma opção digitando o número correspondente.
 
